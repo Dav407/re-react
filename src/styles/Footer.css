@@ -1,0 +1,25 @@
+footer{
+    display: flex;
+    padding: 30px;
+    background-color: whitesmoke;
+    margin: 20px;
+    height: auto;
+}
+.first{
+    flex: 30%;
+}
+.second, .third, .fourth{
+    flex: 15%;
+}
+.fifth{
+    flex: 25%;
+}
+.input-container{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.icon-container{
+    margin-left: 20px;
+
+}
